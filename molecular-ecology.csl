@@ -40,7 +40,7 @@
 
   <bibliography>
     <layout>
-      <text macro="author"/> 
+      <text macro="author"/>
       <text variable="issued" prefix=" (" suffix="). "/>
       <text macro="container-title"/>
       <text macro="volume" prefix=" " suffix=", "/>
